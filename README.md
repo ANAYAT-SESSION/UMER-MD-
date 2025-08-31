@@ -27,7 +27,9 @@ https://asitha.top
 
 
 
-![Pakistan](https://img.shields.io/badge/🇵🇰-PAKISTAN-006600?style=for-the-badge)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan Flag" width="1000"/>
+</p>
 
 
 
