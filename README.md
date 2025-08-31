@@ -68,6 +68,4 @@ jobs:
 
 
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan Flag" width="300"/>
-</p>
+
