@@ -67,7 +67,47 @@ https://asitha.top
 
 
 
-[![PAIR CODE](https://img.shields.io/badge/PAIR%20CODE-Click%20Here-red?style=for-the-badge&logo=link&logoColor=white)](https://asitha.top/pair)
+
+# 🔑 Pair Code
+
+Before deploying the bot, you need to generate your **session/pair code**.  
+Click the button below to get your code 👇
+
+[![Get Pair Code](https://img.shields.io/badge/Get%20Pair%20Code-Click%20Here-brightgreen?style=for-the-badge&logo=whatsapp)](https://asitha.top/pair)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
