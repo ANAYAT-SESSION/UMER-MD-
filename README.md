@@ -12,3 +12,51 @@ Need help or want to contact the owner of this bot?
 Click the button below to chat on WhatsApp 👇
 
 [![Contact Owner](https://img.shields.io/badge/Contact%20Owner-WhatsApp-red?style=for-the-badge&logo=whatsapp)](https://wa.me/992935807278)
+
+
+
+
+---
+
+## ⚙️ Workflow (GitHub Actions)
+
+If you want to setup automatic build & run, add this workflow file in your repo at:
+
+`.github/workflows/nodejs.yml`
+
+### Workflow Code:
+
+```yaml
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
