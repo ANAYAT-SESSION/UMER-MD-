@@ -66,13 +66,13 @@ https://asitha.top
 
 
 
-# 🔑 Pair Code
-
-Before deploying the bot, you need to generate your **session/pair code**.  
-Click the button below to get your code 👇
-
-[![Get Pair Code](https://img.shields.io/badge/Get%20Pair%20Code-Click%20Here-brightgreen?style=for-the-badge&logo=whatsapp)](https://asitha.top/pair)
-
+<a href="https://asitha.top">
+  <img src="https://img.shields.io/badge/Get%20Pair%20Code-Click%20Here-red?style=for-the-badge&logo=github" 
+       alt="Pair Code" 
+       style="border-radius: 15px; transition: all 0.3s ease-in-out; box-shadow: 0 0 10px rgba(255,0,0,0.7);" 
+       onmouseover="this.style.boxShadow='0 0 25px rgba(255,0,0,1)';" 
+       onmouseout="this.style.boxShadow='0 0 10px rgba(255,0,0,0.7)';">
+</a>
 
 
 
