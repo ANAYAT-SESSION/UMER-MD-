@@ -187,6 +187,3 @@ jobs:
 
 
 
-## 📢 Join My WhatsApp Channel
-
-[![Join Channel](https://img.shields.io/badge/Join%20WhatsApp%20Channel-Umer%20Md%20-yellow?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbBJkfTJuyAIVWqYwQ0B)
