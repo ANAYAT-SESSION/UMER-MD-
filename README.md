@@ -68,35 +68,3 @@ jobs:
 
 
 
-
-## 🚀 Deployment
-
-Click on any button below to deploy:
-
-[![Deploy on Replit](https://img.shields.io/badge/Deploy%20on-Replit-blue?style=for-the-badge&logo=replit)](https://replit.com/github/USERNAME/Umer-Md)
-
-[![Deploy on Railway](https://img.shields.io/badge/Deploy%20on-Railway-black?style=for-the-badge&logo=railway)](https://railway.app/new/template?template=USERNAME/Umer-Md)
-
-[![Deploy on Heroku](https://img.shields.io/badge/Deploy%20on-Heroku-purple?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/USERNAME/Umer-Md)
-
-[![Deploy on GitHub Codespaces](https://img.shields.io/badge/Deploy%20on-Codespaces-green?style=for-the-badge&logo=github)](https://codespaces.new/USERNAME/Umer-Md)
-
----
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan Flag" width="300"/>
-</p>
-
----
-
-# 🔑 Pair Code
-
-Before deploying the bot, generate your **session/pair code** 👇
-
-[![Get Pair Code](https://img.shields.io/badge/Get%20Pair%20Code-Click%20Here-brightgreen?style=for-the-badge&logo=whatsapp)](https://asitha.top/pair)
-
----
-
-# 👤 Owner
-
-[![Contact Owner](https://img.shields.io/badge/Contact%20Owner-WhatsApp-red?style=for-the-badge&logo=whatsapp)](https://wa.me/992935807278)
